@@ -13,3 +13,23 @@ This model can be applied to image data, but we apply it to data gathered by the
 ![GMM_SRAL](https://github.com/user-attachments/assets/ee530f8d-4f73-4226-b3e1-766b26709c3f)
 
 As expected, leads produce a sharper, narrower signal, owing to their flatness and high reflectivity. Sea ice on the other hand is rougher, and as a result produces a much more dispersed, spread out signal.
+
+We go on to produce a plot of all the signals in both classes, and in each seperate class. As well as producing scatter plots to compare their peakiness, sigma-0 values and standard deviation.
+
+Finally we produce a confusion matrix to show the success of our classificiations.
+
+![GMM_matrix](https://github.com/user-attachments/assets/a81b3374-3960-44e3-a0e9-b9f76a8179b1)
+
+I hope you find this repository and the code useful, and a thanks to Weibin, Connor and Michel for producing the first jupyter notebook I used as reference.
+
+## Contact
+
+krishnasudhan7@gmail.com
+krishna.sudhan.22@ucl.ac.uk
+
+## Resources
+
+* [Using GMMs in Python using Sci-kit Learn](https://scikit-learn.org/stable/modules/mixture.html)
+* [The Copernicus Browser that can be used to access Sentinel-3 data](https://browser.dataspace.copernicus.eu/)
+
+
