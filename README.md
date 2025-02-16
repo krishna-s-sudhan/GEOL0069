@@ -24,8 +24,8 @@ I hope you find this repository and the code useful, and a thanks to Weibin, Con
 
 ## Contact
 
-krishnasudhan7@gmail.com
-krishna.sudhan.22@ucl.ac.uk
+* krishna.sudhan.22@ucl.ac.uk
+* This Project: https://github.com/krishna-s-sudhan/GEOL0069/
 
 ## Resources
 
